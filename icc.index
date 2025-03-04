@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICC Champions Trophy 2025</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f8f9fa; }
+        .navbar { background: #007bff; }
+        .navbar a { color: #fff !important; }
+        .carousel-item img { height: 400px; object-fit: cover; }
+        .card {
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-radius: 10px;
+        }
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">ICC Champions Trophy 2025</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Schedule & Results</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">News</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Videos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Points Table</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Squads</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Photos</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Carousel for Next Match -->
+    <div id="matchCarousel" class="carousel slide mt-3" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="match1.jpg" class="d-block w-100" alt="Next Match">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>India vs Australia - June 5, 2025</h5>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="match2.jpg" class="d-block w-100" alt="Next Match">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Pakistan vs England - June 6, 2025</h5>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#matchCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#matchCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        </button>
+    </div>
+
+    <!-- Match Highlights -->
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Match Highlights</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="highlight1.jpg" class="card-img-top" alt="Match Highlight">
+                    <div class="card-body">
+                        <h5 class="card-title">India vs Australia</h5>
+                        <p class="card-text">India wins by 5 wickets in a thrilling chase.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="highlight2.jpg" class="card-img-top" alt="Match Highlight">
+                    <div class="card-body">
+                        <h5 class="card-title">Pakistan vs England</h5>
+                        <p class="card-text">Pakistan secures a dominant victory over England.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="highlight3.jpg" class="card-img-top" alt="Match Highlight">
+                    <div class="card-body">
+                        <h5 class="card-title">South Africa vs New Zealand</h5>
+                        <p class="card-text">A last-over thriller as South Africa edges past New Zealand.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

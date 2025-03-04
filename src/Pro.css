@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; background-color: #f8f9fa; }
+        .navbar { background: #007bff; }
+        .navbar a { color: #fff !important; }
+        .carousel-item img { height: 400px; object-fit: cover; margin-top:0; }
+        .card {
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-radius: 10px;
+        }
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
