@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ICT/static/css/main.597ec2aa.css",
+    "main.js": "/ICT/static/js/main.c62b377d.js",
+    "static/js/453.13410aaa.chunk.js": "/ICT/static/js/453.13410aaa.chunk.js",
+    "static/media/engVsAus4.webp": "/ICT/static/media/engVsAus4.89954e1cdccc8d658f10.webp",
+    "static/media/saVseng11.webp": "/ICT/static/media/saVseng11.a4c65d91b59392d9629f.webp",
+    "static/media/afgVsAus10.webp": "/ICT/static/media/afgVsAus10.7b3553b53243e85f5ad4.webp",
+    "static/media/saVsafg3.webp": "/ICT/static/media/saVsafg3.cfe15acaadf45adb7493.webp",
+    "static/media/indVsban2.webp": "/ICT/static/media/indVsban2.0c3b1b333555f9d9c3a4.webp",
+    "static/media/ausVsSa7.webp": "/ICT/static/media/ausVsSa7.844ee2239ad539e0b819.webp",
+    "static/media/nzVspak1.webp": "/ICT/static/media/nzVspak1.98b71b8ab85c199bf2fa.webp",
+    "static/media/pakVsBAn9.webp": "/ICT/static/media/pakVsBAn9.51d7f30a6f75cb63707e.webp",
+    "static/media/newVSind12.webp": "/ICT/static/media/newVSind12.0c6b4c52ba3bcf0da6c5.webp",
+    "static/media/banVsNz6.webp": "/ICT/static/media/banVsNz6.771a8967977886117cd0.webp",
+    "static/media/afgVsEng8.webp": "/ICT/static/media/afgVsEng8.226bcaa603b8db2e1376.webp",
+    "static/media/semi1.webp": "/ICT/static/media/semi1.a9950aa28b6a3d3d9462.webp",
+    "static/media/pakVsind5.webp": "/ICT/static/media/pakVsind5.d1da8951f82400a7084c.webp",
+    "static/media/semifinal2.webp": "/ICT/static/media/semifinal2.093c8c2db3644bac0cf3.webp",
+    "static/media/logo.png": "/ICT/static/media/logo.75b0ceb4b16635dcbbc6.png",
+    "static/media/logo.svg": "/ICT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ICT/index.html",
+    "main.597ec2aa.css.map": "/ICT/static/css/main.597ec2aa.css.map",
+    "main.c62b377d.js.map": "/ICT/static/js/main.c62b377d.js.map",
+    "453.13410aaa.chunk.js.map": "/ICT/static/js/453.13410aaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.597ec2aa.css",
+    "static/js/main.c62b377d.js"
+  ]
+}
