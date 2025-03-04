@@ -10,7 +10,7 @@ function Navbar1()
     return(
         <>
        
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg bg-info">
   <div class="container-fluid">
   <a class="navbar-brand" href="#" >
      
